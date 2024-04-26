@@ -11,6 +11,11 @@ I've set the path so that the results of building the React app are reflected di
 cd Spring-With-React-Project\src\main\resources\frontend
 npm run build
 
+After you first download the project, if you want to build a reactant, you must proceed with the command below in advance.
+
+cd Spring-With-React-Project\src\main\resources\frontend
+npm install
+
 
 
 이 프로젝트는 스프링-부트와 create-react-app를 결합시켜놓은 예제 프로젝트입니다.
@@ -25,3 +30,8 @@ Spring-With-React-Project\src\main\resources\frontend
 
 cd Spring-With-React-Project\src\main\resources\frontend
 npm run build
+
+처음 프로젝트를 내려받은 뒤에, 리액트를 빌드하고 싶다면 아래의 명령어를 사전에 진행해줘야합니다.
+
+cd Spring-With-React-Project\src\main\resources\frontend
+npm install
